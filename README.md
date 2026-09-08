@@ -45,3 +45,6 @@ The objective of this analysis is to help a business understand sales performanc
 ## Outcome
 
 This project demonstrates how Excel can be used to transform raw sales data into clear, actionable business insights through KPI analysis, PivotTables, and visual dashboards.
+## Dashboard Preview
+
+![Customer Sales & Revenue Dashboard](Screenshot%202026-09-08%20at%2008.20.15.png)
